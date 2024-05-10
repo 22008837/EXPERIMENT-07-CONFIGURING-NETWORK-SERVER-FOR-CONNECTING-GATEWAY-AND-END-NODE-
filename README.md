@@ -47,7 +47,7 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 ## OUTPUT 
-![image](https://github.com/22008837/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120194155/e051f6b5-4c8e-4993-9a89-fa22ee233c1b)
+![image](https://github.com/22008837/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/120194155/bd2958b8-ad38-49fe-86d6-c052f249706b)
 
 ## Results:
 The Network server and end device for traferring data on the network has been accomplished.
